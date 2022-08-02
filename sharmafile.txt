@@ -2,4 +2,12 @@ this is a new file
 i am new to this git 
 
 
-i am adding a new line 1
+i am adding a new line  1
+
+
+
+i am adding swcond line
+
+
+
+i am adding thierd line
